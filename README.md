@@ -1,9 +1,4 @@
-## Projekt skupia się na przewidywaniu rotacji pracowników (atrycji) przy użyciu algorytmów uczenia maszynowego. Wykorzystałem dane dotyczące m.in. stażu, wykształcenia, płci oraz lokalizacji, aby zidentyfikować czynniki wpływające na decyzję o odejściu z firmy.
-Wykorzystane technologie:
--Python (Pandas, NumPy) – obróbka i analiza danych
--Scikit-Learn – budowa modeli i optymalizacja.
--Matplotlib / Seaborn – wizualizacja korelacji i wyników.
-
+## Znajdziesz tutaj projekty realizujące pełny proces analizy danych – od eksploracji i czyszczenia, po budowę i optymalizację modeli predykcyjnych.
 <!--
 **michalokraska/michalokraska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

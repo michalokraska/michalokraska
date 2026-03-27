@@ -1,4 +1,4 @@
-## Znajdziesz tutaj projekty realizujące pełny proces analizy danych – od eksploracji i czyszczenia, po budowę i optymalizację modeli predykcyjnych.
+## Znajdziesz tutaj projekty realizujące pełny proces analizy danych – od eksploracji i czyszczenia, po modele predykcyjne oraz interaktywne dashboardy w Power BI.
 <!--
 **michalokraska/michalokraska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
